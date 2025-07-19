@@ -23,7 +23,7 @@ const setGradient = () => {
 return (body.style.background.value);
 }*/
  
-const inputInfo = () => body.style.background.value;
+const inputInfo =( => body.style.background);
 
 /*function r() {
 	 return Math.floor(Math.random() * 255);
